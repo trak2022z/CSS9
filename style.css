@@ -1,5 +1,6 @@
 div {
   display: flex;
+  flex-direction: row-reverse;
 
   /* Reverse
   flex-direction: row-reverse; */
@@ -14,5 +15,5 @@ div {
 }
 
 div img {
-  height: 70%;
+  height: 30%;
 }
